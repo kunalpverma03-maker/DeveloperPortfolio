@@ -1,6 +1,6 @@
-ASHISH VATS
+kunal verma
 
-Roll Number: 2601730008
+Roll Number: 2601730002
 
 B.Tech Computer Science Engineering
 K.R. Mangalam University
@@ -21,6 +21,6 @@ PROJECTS
 - GitHub API Integration
 
 CONTACT
-Email: vatsaashish2009@gmail.com
-GitHub: https://github.com/ralcoralson
-LinkedIn: https://www.linkedin.com/in/ashish-vats-b1ab3224b/
+Email: k2179303@gmial.com
+GitHub: https://github.com/kunalpverma03-maker
+LinkedIn: https://www.linkedin.com/in/kunal-verma-a724a63a5/
