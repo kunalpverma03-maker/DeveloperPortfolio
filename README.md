@@ -2,15 +2,15 @@
 
 ### Beginner Developer Ecosystem Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://ralcoralson.github.io/DeveloperPortfolioFinal/)
-[![GitHub](https://img.shields.io/badge/GitHub-ralcoralson-black?logo=github)](https://github.com/ralcoralson)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ashish-vats-b1ab3224b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://github.com/kunalpverma03-maker)
+[![GitHub](https://avatars.githubusercontent.com/u/320866822?v=4)](https://github.com/kunalpverma03-maker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kunal-verma-a724a63a5/)
 
 ---
 
 ## 👨‍💻 About Me
 
-**Name:** kunal 
+**Name:** kunal verma
 **Roll Number:** 2601730002  
 **Course:** B.Tech Computer Science Engineering  
 **University:** K.R. Mangalam University
@@ -29,7 +29,7 @@ The project demonstrates my hands-on experience with development tools, automati
 
 **Visit my website:**
 
-[https://kunalpverma03-maker.github.io/DeveloperPortfolioFinal/](https://ralcoralson.github.io/DeveloperPortfolioFinal/)
+[https://kunalpverma03-maker.github.io/DeveloperPortfolioFinal/](https://github.com/kunalpverma03-maker/DeveloperPortfolio)
 ## 📄 My Resume
 
 [Download My Resume (PDF)](Portfolio/kunalpverma03-maker_Resume.pdf)
@@ -59,7 +59,6 @@ An experimental web development project exploring interactive interfaces and web
 
 **Technologies:** HTML, CSS, JavaScript, Python
 
-🔗 [View Repository – SkipIt Experiment](https://github.com/ralcoralson/skipit-experiment)
 
 ### 3. DeveloperPortfolioFinal – Personal Portfolio
 
@@ -136,15 +135,15 @@ Screenshots and project demonstrations are organized in the `Screenshots/` direc
 
 ## 🔗 Connect With Me
 
-- **GitHub:** [kunalpverma03-maker](https://github.com/ralcoralson)
-- **LinkedIn:** [kunal](https://www.linkedin.com/in/ashish-vats-b1ab3224b/)
+- **GitHub:** [kunalpverma03-maker](https://github.com/kunalpverma03-maker)
+- **LinkedIn:** [kunal](https://www.linkedin.com/in/kunal-verma-a724a63a5/)
 - **Portfolio:** [DeveloperPortfolioFinal](https://kunalpverma03-maker.github.io/DeveloperPortfolioFinal/)
 
 ---
 
 ## 👨‍🎓 Author
 
-**kunal**
+**kunal verma**
 
 B.Tech Computer Science Engineering  
 K.R. Mangalam University
