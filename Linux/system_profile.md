@@ -6,7 +6,7 @@ The following table describes the hardware and system configuration of my Ubuntu
 
 | Component | Specification |
 |---|---|
-| CPU | Intel Core i3-1125G4 @ 2.00 GHz |
+| CPU | Intel(R) core(TM) 5 210 H |
 | Architecture | x86_64 (64-bit) |
 | RAM | 4.5 GiB |
 | Storage | 20 GB VMware Virtual Disk |
