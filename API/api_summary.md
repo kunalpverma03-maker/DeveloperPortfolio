@@ -1,8 +1,7 @@
 API Documentation
 GitHub API
 Endpoint
-https://api.github.com/users/ralcoralson
-
+https://api.github.com/users/kunalpverma03-maker
 Purpose
 Returns public profile information of a GitHub user.
 
