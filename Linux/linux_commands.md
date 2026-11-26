@@ -98,6 +98,6 @@ This exercise helped me develop a basic understanding of Linux command-line oper
 
 ---
 
-**Prepared by:** Ashish Vats  
+**Prepared by:** kunal verma  
 **Course:** CSE103  
 **University:** K.R. Mangalam University
