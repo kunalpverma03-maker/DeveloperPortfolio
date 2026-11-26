@@ -35,8 +35,8 @@ tmpfs           2.3G  8.0K  2.3G   1% /tmp
 none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
 /dev/sda1       952M  6.4M  945M   1% /boot/efi
 tmpfs           463M   96K  463M   1% /run/user/1000
-/dev/sr1        6.1G  6.1G     0 100% /run/media/kabir/Ubuntu 26.04.1 LTS amd64
-/dev/sr0        108M  108M     0 100% /run/media/kabir/CDROM
+/dev/sr1        6.1G  6.1G     0 100% /run/media/kunal verma/Ubuntu 26.04.1 LTS amd64
+/dev/sr0        108M  108M     0 100% /run/media/kunal verma/CDROM
 tmpfs           463M   48K  463M   1% /run/user/0
 
 ===== MEMORY USAGE =====
