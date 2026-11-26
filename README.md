@@ -10,8 +10,8 @@
 
 ## 👨‍💻 About Me
 
-**Name:** Ashish Vats  
-**Roll Number:** 2601730008  
+**Name:** kunal 
+**Roll Number:** 2601730002  
 **Course:** B.Tech Computer Science Engineering  
 **University:** K.R. Mangalam University
 
@@ -29,10 +29,10 @@ The project demonstrates my hands-on experience with development tools, automati
 
 **Visit my website:**
 
-[https://ralcoralson.github.io/DeveloperPortfolioFinal/](https://ralcoralson.github.io/DeveloperPortfolioFinal/)
+[https://kunalpverma03-maker.github.io/DeveloperPortfolioFinal/](https://ralcoralson.github.io/DeveloperPortfolioFinal/)
 ## 📄 My Resume
 
-[Download My Resume (PDF)](Portfolio/Ashish_Vats_Resume.pdf)
+[Download My Resume (PDF)](Portfolio/kunalpverma03-maker_Resume.pdf)
 ## 🚀 My Projects & Work
 
 ### 1. VOID – Local AI Assistant
@@ -46,7 +46,7 @@ A Python-based local AI assistant designed to support AI conversations through O
 
 **Technologies:** Python, Ollama, SQLite
 
-🔗 [View Repository – VOID](https://github.com/ralcoralson/void)
+🔗 [View Repository – VOID](https://github.com/kunalpverma03-maker/void)
 
 ### 2. SkipIt Experiment – Web Development
 
@@ -72,9 +72,9 @@ A personal developer portfolio showcasing my academic work, technical skills, Li
 
 **Technologies:** Linux, Bash, Git, GitHub, REST API, HTML
 
-🔗 [View Repository](https://github.com/ralcoralson/DeveloperPortfolioFinal)
+🔗 [View Repository](https://github.com/kunalpverma03-maker/DeveloperPortfolioFinal)
 
-🌐 [Live Website](https://ralcoralson.github.io/DeveloperPortfolioFinal/)
+🌐 [Live Website](https://kunalpverma03-maker.github.io/DeveloperPortfolioFinal/)
 
 ---
 
@@ -136,15 +136,15 @@ Screenshots and project demonstrations are organized in the `Screenshots/` direc
 
 ## 🔗 Connect With Me
 
-- **GitHub:** [ralcoralson](https://github.com/ralcoralson)
-- **LinkedIn:** [Ashish Vats](https://www.linkedin.com/in/ashish-vats-b1ab3224b/)
-- **Portfolio:** [DeveloperPortfolioFinal](https://ralcoralson.github.io/DeveloperPortfolioFinal/)
+- **GitHub:** [kunalpverma03-maker](https://github.com/ralcoralson)
+- **LinkedIn:** [kunal](https://www.linkedin.com/in/ashish-vats-b1ab3224b/)
+- **Portfolio:** [DeveloperPortfolioFinal](https://kunalpverma03-maker.github.io/DeveloperPortfolioFinal/)
 
 ---
 
 ## 👨‍🎓 Author
 
-**Ashish Vats**
+**kunal**
 
 B.Tech Computer Science Engineering  
 K.R. Mangalam University
