@@ -4,7 +4,7 @@
 
 | Detail | Information |
 |---|---|
-| Student | Vikansh Chaudhary |
+| Student | kunal verma  |
 | Programme | B.Tech CSE (AI & ML) |
 | Batch | 2026–2030 |
 | Specialisation | Data Science & AI / Machine Learning |
