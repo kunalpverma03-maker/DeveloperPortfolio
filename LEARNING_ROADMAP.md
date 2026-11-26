@@ -1,10 +1,10 @@
 # Six-Semester Technical Learning Roadmap
 
-**Student:** Ashish Vats  
+**Student:** kunal verma  
 **University:** K.R. Mangalam University  
 **Programme:** B.Tech CSE (AI & ML)  
 **Batch:** 2026–2030  
-**Specialisation:** Data Science & Artificial Intelligence
+**Specialisation:** machine learning & Artificial Intelligence
 
 ## Semester 1 — Foundations
 - Learn Python, Linux, Git and GitHub.
